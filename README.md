@@ -9,4 +9,5 @@
   * Decision Tree
   * KNN Classifier 
   * Naive Bayes Classifier 
+  * Random Forest Classifier 
 
