@@ -5,4 +5,8 @@
 1. Regression
   * Linear Regression 
 2. Classification 
+  * Logistic Regression 
+  * Decision Tree
+  * KNN Classifier 
+  * Naive Bayes Classifier 
 
